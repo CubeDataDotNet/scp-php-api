@@ -1,5 +1,5 @@
 {
-	"name": "synergycp/scp-integration",
+	"name": "cubedatadotnet/scp-php-api",
 	"description": "Synergy Control Panel PHP Integration",
 	"keywords": ["Synergy", "Server", "Control", "Panel", "Dedicated"],
 	"license": "none",
