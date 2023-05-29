@@ -5,6 +5,8 @@
 	"license": "none",
 	"type": "project",
 	"require": {
+		"mockery/mockery": "^0.9.4",
+    		"phpunit/phpunit": "^8.0"
 	},
 	"require-dev": {
 		"mockery/mockery": "^0.9.4",
