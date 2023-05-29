@@ -8,26 +8,15 @@
 	},
 	"require-dev": {
 		"mockery/mockery": "^0.9.4",
-    "phpunit/phpunit": "^8.0"
+    		"phpunit/phpunit": "^8.0"
 	},
 	"repositories": [],
 	"autoload": {
 		"classmap": [
-            "bootstrap/autoload.php"
+            	"bootstrap/autoload.php"
 		],
 		"psr-4": {
 			"Scp\\": "src"
 		}
-	},
-	"scripts": {
-		"post-install-cmd": [
-		],
-		"post-update-cmd": [
-		],
-		"post-create-project-cmd": [
-		]
-	},
-	"config": {
-		"preferred-install": "dist"
 	}
 }
